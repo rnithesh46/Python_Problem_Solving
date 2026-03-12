@@ -87,3 +87,11 @@
     - with return
     - without return
     
+# git
+- git init
+- git add .
+- git commit -m "Initial commit"
+- git remote add origin "HTTPS LINK"
+- git branch -M main
+- git pull --rebase origin main
+- git push -u origin main
